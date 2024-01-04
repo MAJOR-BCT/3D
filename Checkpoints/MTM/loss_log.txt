@@ -1,0 +1,146 @@
+================ Training Loss (Tue Jan  2 15:29:28 2024) ================
+================ Training Loss (Tue Jan  2 21:14:22 2024) ================
+================ Training Loss (Tue Jan  2 21:16:41 2024) ================
+================ Training Loss (Tue Jan  2 21:40:41 2024) ================
+================ Training Loss (Tue Jan  2 21:48:42 2024) ================
+(epoch: 1, iters: 100, time: 0.086, data: 2.976) mtm: 0.583 fdepth: 0.037 bdepth: 0.038 segmt: 0.452 warp: 0.056 
+(epoch: 1, iters: 200, time: 0.086, data: 0.000) mtm: 0.259 fdepth: 0.022 bdepth: 0.024 segmt: 0.175 warp: 0.038 
+(epoch: 1, iters: 300, time: 0.087, data: 0.000) mtm: 0.213 fdepth: 0.021 bdepth: 0.019 segmt: 0.134 warp: 0.039 
+(epoch: 1, iters: 400, time: 0.087, data: 0.000) mtm: 0.199 fdepth: 0.018 bdepth: 0.019 segmt: 0.111 warp: 0.051 
+(epoch: 1, iters: 500, time: 0.087, data: 0.000) mtm: 0.166 fdepth: 0.018 bdepth: 0.016 segmt: 0.091 warp: 0.042 
+(epoch: 1, iters: 600, time: 0.088, data: 0.001) mtm: 0.153 fdepth: 0.015 bdepth: 0.015 segmt: 0.073 warp: 0.050 
+(epoch: 1, iters: 700, time: 0.087, data: 0.000) mtm: 0.153 fdepth: 0.016 bdepth: 0.016 segmt: 0.065 warp: 0.055 
+End of epoch 1 / 100 	 Time Taken: 302 sec
+================ Training Loss (Tue Jan  2 22:03:43 2024) ================
+(epoch: 1, iters: 100, time: 0.085, data: 3.554) mtm: 0.505 fdepth: 0.033 bdepth: 0.047 segmt: 0.371 warp: 0.054 
+(epoch: 1, iters: 200, time: 0.086, data: 0.000) mtm: 0.269 fdepth: 0.024 bdepth: 0.035 segmt: 0.146 warp: 0.064 
+(epoch: 1, iters: 300, time: 0.086, data: 0.001) mtm: 0.211 fdepth: 0.020 bdepth: 0.030 segmt: 0.109 warp: 0.051 
+(epoch: 1, iters: 400, time: 0.090, data: 0.000) mtm: 0.203 fdepth: 0.017 bdepth: 0.027 segmt: 0.109 warp: 0.050 
+(epoch: 1, iters: 500, time: 0.092, data: 0.000) mtm: 0.203 fdepth: 0.018 bdepth: 0.024 segmt: 0.085 warp: 0.076 
+(epoch: 1, iters: 600, time: 0.087, data: 0.000) mtm: 0.161 fdepth: 0.014 bdepth: 0.023 segmt: 0.078 warp: 0.046 
+(epoch: 1, iters: 700, time: 0.087, data: 0.000) mtm: 0.154 fdepth: 0.015 bdepth: 0.021 segmt: 0.068 warp: 0.049 
+End of epoch 1 / 100 	 Time Taken: 304 sec
+================ Training Loss (Tue Jan  2 22:25:07 2024) ================
+================ Training Loss (Tue Jan  2 22:26:54 2024) ================
+================ Training Loss (Wed Jan  3 11:21:56 2024) ================
+================ Training Loss (Wed Jan  3 11:22:39 2024) ================
+(epoch: 1, iters: 100, time: 0.085, data: 3.358) mtm: 0.569 fdepth: 0.028 bdepth: 0.030 segmt: 0.451 warp: 0.060 
+(epoch: 1, iters: 200, time: 0.085, data: 0.000) mtm: 0.288 fdepth: 0.023 bdepth: 0.025 segmt: 0.181 warp: 0.059 
+(epoch: 1, iters: 300, time: 0.086, data: 0.000) mtm: 0.200 fdepth: 0.016 bdepth: 0.016 segmt: 0.108 warp: 0.059 
+(epoch: 1, iters: 400, time: 0.085, data: 0.000) mtm: 0.183 fdepth: 0.016 bdepth: 0.016 segmt: 0.102 warp: 0.050 
+(epoch: 1, iters: 500, time: 0.085, data: 0.000) mtm: 0.149 fdepth: 0.015 bdepth: 0.015 segmt: 0.085 warp: 0.034 
+(epoch: 1, iters: 600, time: 0.085, data: 0.000) mtm: 0.158 fdepth: 0.013 bdepth: 0.014 segmt: 0.078 warp: 0.054 
+(epoch: 1, iters: 700, time: 0.084, data: 0.000) mtm: 0.155 fdepth: 0.012 bdepth: 0.011 segmt: 0.059 warp: 0.073 
+End of epoch 1 / 100 	 Time Taken: 295 sec
+(epoch: 2, iters: 96, time: 0.085, data: 0.000) mtm: 0.139 fdepth: 0.012 bdepth: 0.013 segmt: 0.068 warp: 0.046 
+(epoch: 2, iters: 196, time: 0.084, data: 0.000) mtm: 0.115 fdepth: 0.012 bdepth: 0.013 segmt: 0.056 warp: 0.034 
+(epoch: 2, iters: 296, time: 0.084, data: 0.000) mtm: 0.142 fdepth: 0.011 bdepth: 0.012 segmt: 0.067 warp: 0.051 
+(epoch: 2, iters: 396, time: 0.085, data: 0.000) mtm: 0.140 fdepth: 0.011 bdepth: 0.012 segmt: 0.052 warp: 0.065 
+(epoch: 2, iters: 496, time: 0.085, data: 0.000) mtm: 0.134 fdepth: 0.012 bdepth: 0.014 segmt: 0.078 warp: 0.030 
+(epoch: 2, iters: 596, time: 0.085, data: 0.001) mtm: 0.154 fdepth: 0.011 bdepth: 0.011 segmt: 0.068 warp: 0.064 
+(epoch: 2, iters: 696, time: 0.084, data: 0.000) mtm: 0.141 fdepth: 0.011 bdepth: 0.012 segmt: 0.061 warp: 0.057 
+End of epoch 2 / 100 	 Time Taken: 292 sec
+(epoch: 3, iters: 92, time: 0.084, data: 0.000) mtm: 0.115 fdepth: 0.012 bdepth: 0.012 segmt: 0.049 warp: 0.042 
+(epoch: 3, iters: 192, time: 0.084, data: 0.000) mtm: 0.109 fdepth: 0.010 bdepth: 0.010 segmt: 0.042 warp: 0.047 
+(epoch: 3, iters: 292, time: 0.085, data: 0.000) mtm: 0.167 fdepth: 0.010 bdepth: 0.012 segmt: 0.088 warp: 0.057 
+(epoch: 3, iters: 392, time: 0.085, data: 0.001) mtm: 0.166 fdepth: 0.010 bdepth: 0.011 segmt: 0.101 warp: 0.045 
+(epoch: 3, iters: 492, time: 0.085, data: 0.000) mtm: 0.143 fdepth: 0.011 bdepth: 0.011 segmt: 0.072 warp: 0.049 
+(epoch: 3, iters: 592, time: 0.085, data: 0.000) mtm: 0.103 fdepth: 0.009 bdepth: 0.009 segmt: 0.035 warp: 0.049 
+(epoch: 3, iters: 692, time: 0.085, data: 0.000) mtm: 0.128 fdepth: 0.010 bdepth: 0.010 segmt: 0.060 warp: 0.048 
+End of epoch 3 / 100 	 Time Taken: 293 sec
+(epoch: 4, iters: 88, time: 0.086, data: 0.000) mtm: 0.093 fdepth: 0.010 bdepth: 0.010 segmt: 0.033 warp: 0.042 
+(epoch: 4, iters: 188, time: 0.086, data: 0.000) mtm: 0.112 fdepth: 0.010 bdepth: 0.010 segmt: 0.048 warp: 0.044 
+(epoch: 4, iters: 288, time: 0.085, data: 0.000) mtm: 0.127 fdepth: 0.010 bdepth: 0.011 segmt: 0.052 warp: 0.054 
+(epoch: 4, iters: 388, time: 0.086, data: 0.000) mtm: 0.087 fdepth: 0.010 bdepth: 0.011 segmt: 0.034 warp: 0.032 
+(epoch: 4, iters: 488, time: 0.086, data: 0.000) mtm: 0.106 fdepth: 0.009 bdepth: 0.010 segmt: 0.030 warp: 0.057 
+(epoch: 4, iters: 588, time: 0.087, data: 0.000) mtm: 0.109 fdepth: 0.012 bdepth: 0.011 segmt: 0.047 warp: 0.038 
+(epoch: 4, iters: 688, time: 0.087, data: 0.001) mtm: 0.107 fdepth: 0.008 bdepth: 0.009 segmt: 0.042 warp: 0.047 
+End of epoch 4 / 100 	 Time Taken: 296 sec
+(epoch: 5, iters: 84, time: 0.087, data: 0.007) mtm: 0.090 fdepth: 0.009 bdepth: 0.009 segmt: 0.033 warp: 0.040 
+(epoch: 5, iters: 184, time: 0.087, data: 0.000) mtm: 0.104 fdepth: 0.010 bdepth: 0.009 segmt: 0.047 warp: 0.038 
+(epoch: 5, iters: 284, time: 0.088, data: 0.000) mtm: 0.104 fdepth: 0.007 bdepth: 0.009 segmt: 0.032 warp: 0.055 
+(epoch: 5, iters: 384, time: 0.088, data: 0.000) mtm: 0.104 fdepth: 0.009 bdepth: 0.008 segmt: 0.043 warp: 0.044 
+(epoch: 5, iters: 484, time: 0.088, data: 0.000) mtm: 0.115 fdepth: 0.008 bdepth: 0.008 segmt: 0.043 warp: 0.056 
+(epoch: 5, iters: 584, time: 0.088, data: 0.000) mtm: 0.092 fdepth: 0.008 bdepth: 0.008 segmt: 0.031 warp: 0.045 
+(epoch: 5, iters: 684, time: 0.088, data: 0.000) mtm: 0.119 fdepth: 0.009 bdepth: 0.008 segmt: 0.048 warp: 0.054 
+End of epoch 5 / 100 	 Time Taken: 349 sec
+(epoch: 6, iters: 80, time: 0.087, data: 0.000) mtm: 0.115 fdepth: 0.009 bdepth: 0.009 segmt: 0.047 warp: 0.051 
+(epoch: 6, iters: 180, time: 0.088, data: 0.001) mtm: 0.097 fdepth: 0.009 bdepth: 0.008 segmt: 0.025 warp: 0.055 
+(epoch: 6, iters: 280, time: 0.088, data: 0.000) mtm: 0.092 fdepth: 0.009 bdepth: 0.008 segmt: 0.027 warp: 0.048 
+(epoch: 6, iters: 380, time: 0.089, data: 0.000) mtm: 0.092 fdepth: 0.010 bdepth: 0.008 segmt: 0.030 warp: 0.045 
+(epoch: 6, iters: 480, time: 0.088, data: 0.000) mtm: 0.103 fdepth: 0.008 bdepth: 0.009 segmt: 0.037 warp: 0.048 
+(epoch: 6, iters: 580, time: 0.089, data: 0.000) mtm: 0.110 fdepth: 0.009 bdepth: 0.010 segmt: 0.029 warp: 0.062 
+(epoch: 6, iters: 680, time: 0.089, data: 0.000) mtm: 0.089 fdepth: 0.007 bdepth: 0.008 segmt: 0.030 warp: 0.045 
+End of epoch 6 / 100 	 Time Taken: 304 sec
+(epoch: 7, iters: 76, time: 0.089, data: 0.000) mtm: 0.088 fdepth: 0.008 bdepth: 0.009 segmt: 0.024 warp: 0.047 
+(epoch: 7, iters: 176, time: 0.089, data: 0.001) mtm: 0.079 fdepth: 0.009 bdepth: 0.007 segmt: 0.023 warp: 0.040 
+(epoch: 7, iters: 276, time: 0.089, data: 0.000) mtm: 0.099 fdepth: 0.008 bdepth: 0.008 segmt: 0.031 warp: 0.052 
+(epoch: 7, iters: 376, time: 0.089, data: 0.000) mtm: 0.085 fdepth: 0.008 bdepth: 0.010 segmt: 0.032 warp: 0.036 
+(epoch: 7, iters: 476, time: 0.089, data: 0.000) mtm: 0.072 fdepth: 0.008 bdepth: 0.007 segmt: 0.030 warp: 0.026 
+(epoch: 7, iters: 576, time: 0.089, data: 0.000) mtm: 0.088 fdepth: 0.008 bdepth: 0.007 segmt: 0.028 warp: 0.044 
+(epoch: 7, iters: 676, time: 0.089, data: 0.000) mtm: 0.079 fdepth: 0.007 bdepth: 0.007 segmt: 0.029 warp: 0.037 
+End of epoch 7 / 100 	 Time Taken: 306 sec
+(epoch: 8, iters: 72, time: 0.089, data: 0.000) mtm: 0.101 fdepth: 0.008 bdepth: 0.008 segmt: 0.022 warp: 0.063 
+(epoch: 8, iters: 172, time: 0.089, data: 0.000) mtm: 0.110 fdepth: 0.008 bdepth: 0.008 segmt: 0.041 warp: 0.053 
+(epoch: 8, iters: 272, time: 0.089, data: 0.000) mtm: 0.090 fdepth: 0.006 bdepth: 0.007 segmt: 0.030 warp: 0.046 
+(epoch: 8, iters: 372, time: 0.089, data: 0.000) mtm: 0.077 fdepth: 0.008 bdepth: 0.008 segmt: 0.024 warp: 0.038 
+(epoch: 8, iters: 472, time: 0.089, data: 0.000) mtm: 0.080 fdepth: 0.007 bdepth: 0.008 segmt: 0.029 warp: 0.037 
+(epoch: 8, iters: 572, time: 0.089, data: 0.000) mtm: 0.104 fdepth: 0.008 bdepth: 0.009 segmt: 0.036 warp: 0.051 
+(epoch: 8, iters: 672, time: 0.089, data: 0.000) mtm: 0.077 fdepth: 0.007 bdepth: 0.006 segmt: 0.024 warp: 0.041 
+End of epoch 8 / 100 	 Time Taken: 308 sec
+(epoch: 9, iters: 68, time: 0.089, data: 0.000) mtm: 0.098 fdepth: 0.008 bdepth: 0.008 segmt: 0.023 warp: 0.060 
+(epoch: 9, iters: 168, time: 0.089, data: 0.000) mtm: 0.100 fdepth: 0.008 bdepth: 0.008 segmt: 0.027 warp: 0.057 
+(epoch: 9, iters: 268, time: 0.090, data: 0.000) mtm: 0.085 fdepth: 0.007 bdepth: 0.007 segmt: 0.018 warp: 0.053 
+(epoch: 9, iters: 368, time: 0.089, data: 0.000) mtm: 0.078 fdepth: 0.007 bdepth: 0.007 segmt: 0.021 warp: 0.043 
+(epoch: 9, iters: 468, time: 0.089, data: 0.000) mtm: 0.070 fdepth: 0.007 bdepth: 0.007 segmt: 0.022 warp: 0.034 
+(epoch: 9, iters: 568, time: 0.089, data: 0.000) mtm: 0.069 fdepth: 0.006 bdepth: 0.007 segmt: 0.029 warp: 0.027 
+(epoch: 9, iters: 668, time: 0.089, data: 0.000) mtm: 0.068 fdepth: 0.006 bdepth: 0.007 segmt: 0.024 warp: 0.031 
+End of epoch 9 / 100 	 Time Taken: 308 sec
+(epoch: 10, iters: 64, time: 0.089, data: 0.000) mtm: 0.081 fdepth: 0.007 bdepth: 0.007 segmt: 0.026 warp: 0.042 
+(epoch: 10, iters: 164, time: 0.090, data: 0.000) mtm: 0.071 fdepth: 0.007 bdepth: 0.007 segmt: 0.020 warp: 0.037 
+(epoch: 10, iters: 264, time: 0.089, data: 0.000) mtm: 0.092 fdepth: 0.006 bdepth: 0.006 segmt: 0.025 warp: 0.054 
+(epoch: 10, iters: 364, time: 0.089, data: 0.000) mtm: 0.092 fdepth: 0.007 bdepth: 0.007 segmt: 0.021 warp: 0.057 
+(epoch: 10, iters: 464, time: 0.089, data: 0.000) mtm: 0.080 fdepth: 0.007 bdepth: 0.007 segmt: 0.023 warp: 0.043 
+(epoch: 10, iters: 564, time: 0.090, data: 0.001) mtm: 0.068 fdepth: 0.007 bdepth: 0.007 segmt: 0.021 warp: 0.033 
+(epoch: 10, iters: 664, time: 0.090, data: 0.000) mtm: 0.087 fdepth: 0.007 bdepth: 0.007 segmt: 0.027 warp: 0.047 
+End of epoch 10 / 100 	 Time Taken: 353 sec
+(epoch: 11, iters: 60, time: 0.089, data: 0.000) mtm: 0.074 fdepth: 0.007 bdepth: 0.008 segmt: 0.020 warp: 0.040 
+(epoch: 11, iters: 160, time: 0.089, data: 0.000) mtm: 0.076 fdepth: 0.006 bdepth: 0.006 segmt: 0.018 warp: 0.046 
+(epoch: 11, iters: 260, time: 0.090, data: 0.000) mtm: 0.074 fdepth: 0.006 bdepth: 0.007 segmt: 0.020 warp: 0.042 
+(epoch: 11, iters: 360, time: 0.089, data: 0.000) mtm: 0.086 fdepth: 0.007 bdepth: 0.007 segmt: 0.017 warp: 0.055 
+(epoch: 11, iters: 460, time: 0.089, data: 0.000) mtm: 0.070 fdepth: 0.008 bdepth: 0.008 segmt: 0.024 warp: 0.031 
+(epoch: 11, iters: 560, time: 0.089, data: 0.000) mtm: 0.081 fdepth: 0.008 bdepth: 0.008 segmt: 0.030 warp: 0.035 
+(epoch: 11, iters: 660, time: 0.089, data: 0.000) mtm: 0.072 fdepth: 0.007 bdepth: 0.008 segmt: 0.026 warp: 0.032 
+End of epoch 11 / 100 	 Time Taken: 307 sec
+(epoch: 12, iters: 56, time: 0.090, data: 0.000) mtm: 0.054 fdepth: 0.006 bdepth: 0.007 segmt: 0.018 warp: 0.024 
+(epoch: 12, iters: 156, time: 0.090, data: 0.000) mtm: 0.068 fdepth: 0.007 bdepth: 0.007 segmt: 0.019 warp: 0.034 
+(epoch: 12, iters: 256, time: 0.089, data: 0.000) mtm: 0.070 fdepth: 0.007 bdepth: 0.007 segmt: 0.019 warp: 0.037 
+(epoch: 12, iters: 356, time: 0.089, data: 0.000) mtm: 0.056 fdepth: 0.006 bdepth: 0.006 segmt: 0.021 warp: 0.024 
+(epoch: 12, iters: 456, time: 0.090, data: 0.000) mtm: 0.074 fdepth: 0.007 bdepth: 0.007 segmt: 0.019 warp: 0.042 
+(epoch: 12, iters: 556, time: 0.089, data: 0.000) mtm: 0.070 fdepth: 0.006 bdepth: 0.006 segmt: 0.022 warp: 0.036 
+(epoch: 12, iters: 656, time: 0.089, data: 0.000) mtm: 0.084 fdepth: 0.006 bdepth: 0.006 segmt: 0.031 warp: 0.040 
+End of epoch 12 / 100 	 Time Taken: 308 sec
+(epoch: 13, iters: 52, time: 0.090, data: 0.000) mtm: 0.052 fdepth: 0.006 bdepth: 0.007 segmt: 0.015 warp: 0.024 
+(epoch: 13, iters: 152, time: 0.089, data: 0.000) mtm: 0.058 fdepth: 0.006 bdepth: 0.007 segmt: 0.018 warp: 0.027 
+(epoch: 13, iters: 252, time: 0.089, data: 0.000) mtm: 0.063 fdepth: 0.007 bdepth: 0.008 segmt: 0.023 warp: 0.025 
+(epoch: 13, iters: 352, time: 0.089, data: 0.000) mtm: 0.061 fdepth: 0.006 bdepth: 0.007 segmt: 0.021 warp: 0.027 
+(epoch: 13, iters: 452, time: 0.090, data: 0.000) mtm: 0.075 fdepth: 0.006 bdepth: 0.006 segmt: 0.025 warp: 0.038 
+(epoch: 13, iters: 552, time: 0.089, data: 0.000) mtm: 0.056 fdepth: 0.007 bdepth: 0.006 segmt: 0.017 warp: 0.026 
+(epoch: 13, iters: 652, time: 0.090, data: 0.000) mtm: 0.064 fdepth: 0.007 bdepth: 0.006 segmt: 0.020 warp: 0.031 
+End of epoch 13 / 100 	 Time Taken: 308 sec
+(epoch: 14, iters: 48, time: 0.089, data: 0.000) mtm: 0.047 fdepth: 0.006 bdepth: 0.006 segmt: 0.019 warp: 0.017 
+(epoch: 14, iters: 148, time: 0.089, data: 0.000) mtm: 0.054 fdepth: 0.005 bdepth: 0.006 segmt: 0.014 warp: 0.029 
+(epoch: 14, iters: 248, time: 0.089, data: 0.000) mtm: 0.053 fdepth: 0.006 bdepth: 0.007 segmt: 0.018 warp: 0.022 
+(epoch: 14, iters: 348, time: 0.090, data: 0.000) mtm: 0.061 fdepth: 0.007 bdepth: 0.006 segmt: 0.017 warp: 0.031 
+(epoch: 14, iters: 448, time: 0.089, data: 0.000) mtm: 0.060 fdepth: 0.006 bdepth: 0.006 segmt: 0.016 warp: 0.031 
+(epoch: 14, iters: 548, time: 0.089, data: 0.000) mtm: 0.053 fdepth: 0.006 bdepth: 0.006 segmt: 0.017 warp: 0.025 
+(epoch: 14, iters: 648, time: 0.090, data: 0.000) mtm: 0.070 fdepth: 0.006 bdepth: 0.006 segmt: 0.021 warp: 0.037 
+End of epoch 14 / 100 	 Time Taken: 308 sec
+(epoch: 15, iters: 44, time: 0.090, data: 0.000) mtm: 0.062 fdepth: 0.005 bdepth: 0.006 segmt: 0.016 warp: 0.035 
+(epoch: 15, iters: 144, time: 0.090, data: 0.000) mtm: 0.050 fdepth: 0.006 bdepth: 0.006 segmt: 0.016 warp: 0.022 
+(epoch: 15, iters: 244, time: 0.089, data: 0.000) mtm: 0.059 fdepth: 0.005 bdepth: 0.005 segmt: 0.017 warp: 0.030 
+(epoch: 15, iters: 344, time: 0.090, data: 0.000) mtm: 0.059 fdepth: 0.005 bdepth: 0.005 segmt: 0.017 warp: 0.031 
+(epoch: 15, iters: 444, time: 0.090, data: 0.000) mtm: 0.060 fdepth: 0.006 bdepth: 0.006 segmt: 0.016 warp: 0.032 
+(epoch: 15, iters: 544, time: 0.090, data: 0.000) mtm: 0.052 fdepth: 0.006 bdepth: 0.006 segmt: 0.016 warp: 0.024 
+(epoch: 15, iters: 644, time: 0.090, data: 0.000) mtm: 0.067 fdepth: 0.006 bdepth: 0.007 segmt: 0.019 warp: 0.034 
+End of epoch 15 / 100 	 Time Taken: 355 sec
