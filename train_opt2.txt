@@ -1,0 +1,62 @@
+----------------- Options ---------------
+                add_depth: True                          
+            add_grid_loss: False                         
+                add_segmt: True                          
+           add_theta_loss: False                         
+                  add_tps: True                          
+               batch_size: 2                             	[default: 8]
+          checkpoints_dir: trained_model                 	[default: pretrained]
+           continue_train: True                          	[default: False]
+                 datalist: train_pairs                   	[default: test_pairs]
+                 datamode: aligned                       
+                 dataroot: dataset                       	[default: mpv3d_example]
+       display_epoch_freq: 5                             
+            display_ncols: 3                             
+          display_winsize: 512                           
+                    epoch: latest                        
+              epoch_count: 1                             
+                 gan_mode: vanilla                       
+                  gpu_ids: 0                             
+                grid_size: 3                             
+               img_height: 512                           
+                img_width: 320                           
+                init_gain: 0.02                          
+                init_type: normal                        
+               input_nc_A: 29                            
+               input_nc_B: 3                             
+                  isTrain: True                          	[default: None]
+             lambda_depth: 1.0                           
+              lambda_grid: 1.0                           
+             lambda_segmt: 1.0                           
+             lambda_theta: 0.1                           
+              lambda_warp: 1.0                           
+                load_iter: 0                             	[default: 0]
+                       lr: 0.0001                        
+           lr_decay_iters: 50                            
+                lr_policy: linear                        
+         max_dataset_size: inf                           
+                    model: MTM                           
+           n_epochs_decay: 50                            
+            n_epochs_keep: 50                            
+               n_layers_D: 3                             
+    n_layers_feat_extract: 3                             
+                     name: MTM                           
+                      ndf: 64                            
+                     netD: basic                         
+                      ngf: 64                            
+            no_pin_memory: False                         
+           no_tensorboard: False                         
+                     norm: instance                      
+              num_threads: 8                             
+                    phase: train                         
+                pool_size: 50                            
+               print_freq: 100                           
+                   radius: 5                             
+             save_by_iter: False                         
+          save_epoch_freq: 5                             
+         save_latest_freq: 500                           
+           serial_batches: False                         
+                   suffix:                               
+              use_dropout: False                         
+                  verbose: False                         
+----------------- End -------------------

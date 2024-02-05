@@ -1,0 +1,38 @@
+================ Training Loss (Mon Feb  5 19:28:27 2024) ================
+(epoch: 1, iters: 100, time: 0.086, data: 21.075) mtm: 0.483 fdepth: 0.029 bdepth: 0.027 segmt: 0.381 warp: 0.045 
+(epoch: 1, iters: 200, time: 0.088, data: 0.007) mtm: 0.278 fdepth: 0.020 bdepth: 0.020 segmt: 0.177 warp: 0.061 
+================ Training Loss (Mon Feb  5 19:32:36 2024) ================
+(epoch: 1, iters: 100, time: 0.088, data: 16.681) mtm: 0.431 fdepth: 0.030 bdepth: 0.029 segmt: 0.346 warp: 0.025 
+(epoch: 1, iters: 200, time: 0.089, data: 0.000) mtm: 0.273 fdepth: 0.022 bdepth: 0.023 segmt: 0.189 warp: 0.038 
+(epoch: 1, iters: 300, time: 0.089, data: 0.001) mtm: 0.200 fdepth: 0.017 bdepth: 0.018 segmt: 0.126 warp: 0.039 
+(epoch: 1, iters: 400, time: 0.090, data: 0.001) mtm: 0.167 fdepth: 0.016 bdepth: 0.017 segmt: 0.092 warp: 0.043 
+(epoch: 1, iters: 500, time: 0.090, data: 0.000) mtm: 0.192 fdepth: 0.016 bdepth: 0.015 segmt: 0.116 warp: 0.045 
+(epoch: 1, iters: 600, time: 0.095, data: 0.000) mtm: 0.178 fdepth: 0.013 bdepth: 0.015 segmt: 0.122 warp: 0.028 
+(epoch: 1, iters: 700, time: 0.092, data: 0.000) mtm: 0.133 fdepth: 0.013 bdepth: 0.012 segmt: 0.074 warp: 0.034 
+(epoch: 1, iters: 800, time: 0.090, data: 0.001) mtm: 0.183 fdepth: 0.013 bdepth: 0.013 segmt: 0.089 warp: 0.068 
+(epoch: 1, iters: 900, time: 0.090, data: 0.000) mtm: 0.160 fdepth: 0.013 bdepth: 0.014 segmt: 0.059 warp: 0.075 
+(epoch: 1, iters: 1000, time: 0.089, data: 0.000) mtm: 0.174 fdepth: 0.012 bdepth: 0.013 segmt: 0.085 warp: 0.065 
+(epoch: 1, iters: 1100, time: 0.089, data: 0.000) mtm: 0.138 fdepth: 0.013 bdepth: 0.012 segmt: 0.058 warp: 0.055 
+(epoch: 1, iters: 1200, time: 0.090, data: 0.001) mtm: 0.109 fdepth: 0.011 bdepth: 0.010 segmt: 0.047 warp: 0.042 
+(epoch: 1, iters: 1300, time: 0.090, data: 0.001) mtm: 0.512 fdepth: 0.020 bdepth: 0.020 segmt: 0.234 warp: 0.237 
+(epoch: 1, iters: 1400, time: 0.090, data: 0.001) mtm: 0.116 fdepth: 0.009 bdepth: 0.010 segmt: 0.045 warp: 0.052 
+End of epoch 1 / 100 	 Time Taken: 345 sec
+(epoch: 2, iters: 92, time: 0.092, data: 0.000) mtm: 0.163 fdepth: 0.015 bdepth: 0.014 segmt: 0.055 warp: 0.079 
+(epoch: 2, iters: 192, time: 0.090, data: 0.001) mtm: 0.115 fdepth: 0.010 bdepth: 0.011 segmt: 0.054 warp: 0.039 
+(epoch: 2, iters: 292, time: 0.096, data: 0.001) mtm: 0.161 fdepth: 0.012 bdepth: 0.011 segmt: 0.055 warp: 0.083 
+(epoch: 2, iters: 392, time: 0.089, data: 0.000) mtm: 0.129 fdepth: 0.012 bdepth: 0.013 segmt: 0.042 warp: 0.062 
+(epoch: 2, iters: 492, time: 0.092, data: 0.000) mtm: 0.115 fdepth: 0.011 bdepth: 0.011 segmt: 0.035 warp: 0.059 
+(epoch: 2, iters: 592, time: 0.108, data: 0.001) mtm: 0.140 fdepth: 0.010 bdepth: 0.010 segmt: 0.047 warp: 0.074 
+(epoch: 2, iters: 692, time: 0.089, data: 0.001) mtm: 0.121 fdepth: 0.011 bdepth: 0.011 segmt: 0.040 warp: 0.059 
+(epoch: 2, iters: 792, time: 0.090, data: 0.000) mtm: 0.108 fdepth: 0.010 bdepth: 0.010 segmt: 0.040 warp: 0.048 
+(epoch: 2, iters: 892, time: 0.092, data: 0.001) mtm: 0.216 fdepth: 0.011 bdepth: 0.012 segmt: 0.150 warp: 0.043 
+(epoch: 2, iters: 992, time: 0.090, data: 0.001) mtm: 0.093 fdepth: 0.010 bdepth: 0.010 segmt: 0.048 warp: 0.025 
+(epoch: 2, iters: 1092, time: 0.090, data: 0.001) mtm: 0.218 fdepth: 0.010 bdepth: 0.011 segmt: 0.137 warp: 0.060 
+(epoch: 2, iters: 1192, time: 0.090, data: 0.000) mtm: 0.098 fdepth: 0.012 bdepth: 0.011 segmt: 0.051 warp: 0.024 
+(epoch: 2, iters: 1292, time: 0.090, data: 0.001) mtm: 0.124 fdepth: 0.009 bdepth: 0.009 segmt: 0.081 warp: 0.026 
+(epoch: 2, iters: 1392, time: 0.091, data: 0.000) mtm: 0.095 fdepth: 0.010 bdepth: 0.009 segmt: 0.045 warp: 0.030 
+End of epoch 2 / 100 	 Time Taken: 343 sec
+(epoch: 3, iters: 84, time: 0.090, data: 0.001) mtm: 0.118 fdepth: 0.013 bdepth: 0.010 segmt: 0.046 warp: 0.049 
+(epoch: 3, iters: 184, time: 0.091, data: 0.001) mtm: 0.106 fdepth: 0.009 bdepth: 0.009 segmt: 0.035 warp: 0.052 
+(epoch: 3, iters: 284, time: 0.089, data: 0.000) mtm: 0.100 fdepth: 0.008 bdepth: 0.009 segmt: 0.034 warp: 0.049 
+================ Training Loss (Mon Feb  5 19:46:56 2024) ================
